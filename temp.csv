@@ -1,0 +1,145 @@
+country,month,temp
+New York,J,4
+New York,F,6
+New York,M,11
+New York,A,18
+New York,M,22
+New York,J,27
+New York,J,29
+New York,A,29
+New York,S,25
+New York,O,18
+New York,N,13
+New York,D,7
+Beijing,J,2
+Beijing,F,5
+Beijing,M,12
+Beijing,A,21
+Beijing,M,27
+Beijing,J,30
+Beijing,J,31
+Beijing,A,30
+Beijing,S,26
+Beijing,O,19
+Beijing,N,10
+Beijing,D,4
+Tokyo,J,10
+Tokyo,F,10
+Tokyo,M,14
+Tokyo,A,19
+Tokyo,M,23
+Tokyo,J,26
+Tokyo,J,30
+Tokyo,A,31
+Tokyo,S,27
+Tokyo,O,22
+Tokyo,N,17
+Tokyo,D,12
+Osaka,J,9
+Osaka,F,10
+Osaka,M,14
+Osaka,A,20
+Osaka,M,25
+Osaka,J,28
+Osaka,J,32
+Osaka,A,33
+Osaka,S,29
+Osaka,O,23
+Osaka,N,18
+Osaka,D,12
+Shanghai,J,8
+Shanghai,F,10
+Shanghai,M,14
+Shanghai,A,20
+Shanghai,M,24
+Shanghai,J,28
+Shanghai,J,32
+Shanghai,A,32
+Shanghai,S,27
+Shanghai,O,23
+Shanghai,N,17
+Shanghai,D,11
+Cairo,J,19
+Cairo,F,21
+Cairo,M,24
+Cairo,A,29
+Cairo,M,33
+Cairo,J,35
+Cairo,J,35
+Cairo,A,35
+Cairo,S,34
+Cairo,O,30
+Cairo,N,25
+Cairo,D,21
+Delhi,J,20
+Delhi,F,24
+Delhi,M,30
+Delhi,A,37
+Delhi,M,40
+Delhi,J,39
+Delhi,J,35
+Delhi,A,34
+Delhi,S,34
+Delhi,O,33
+Delhi,N,28
+Delhi,D,22
+Karachi,J,26
+Karachi,F,28
+Karachi,M,32
+Karachi,A,35
+Karachi,M,36
+Karachi,J,35
+Karachi,J,33
+Karachi,A,32
+Karachi,S,33
+Karachi,O,35
+Karachi,N,32
+Karachi,D,28
+Dhaka,J,25
+Dhaka,F,29
+Dhaka,M,32
+Dhaka,A,33
+Dhaka,M,33
+Dhaka,J,32
+Dhaka,J,32
+Dhaka,A,32
+Dhaka,S,32
+Dhaka,O,31
+Dhaka,N,29
+Dhaka,D,26
+Mexico City,J,22
+Mexico City,F,24
+Mexico City,M,26
+Mexico City,A,27
+Mexico City,M,27
+Mexico City,J,26
+Mexico City,J,24
+Mexico City,A,25
+Mexico City,S,24
+Mexico City,O,24
+Mexico City,N,23
+Mexico City,D,23
+Mumbai,J,31
+Mumbai,F,32
+Mumbai,M,33
+Mumbai,A,33
+Mumbai,M,34
+Mumbai,J,32
+Mumbai,J,30
+Mumbai,A,30
+Mumbai,S,31
+Mumbai,O,34
+Mumbai,N,34
+Mumbai,D,32
+Sao Paulo,J,29
+Sao Paulo,F,29
+Sao Paulo,M,28
+Sao Paulo,A,27
+Sao Paulo,M,23
+Sao Paulo,J,23
+Sao Paulo,J,23
+Sao Paulo,A,25
+Sao Paulo,S,25
+Sao Paulo,O,26
+Sao Paulo,N,27
+Sao Paulo,D,28
